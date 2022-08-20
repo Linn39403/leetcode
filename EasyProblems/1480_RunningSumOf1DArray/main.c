@@ -13,13 +13,15 @@ int* runningSum(int* nums, int numsSize, int* returnSize){
     if(numsSize == 1) return iPtr;
     memcpy(&iPtr[1],&nums[1],(numsSize-1)*sizeof(int));
 
-    for(int i = 1 ; i < numsSize ; i ++)
+    //for(int i = 1 ; i < numsSize ; i ++)
+    for(int i = numsSize ; i > 0 ; i --)
     {
-        iPtr[i] += ( iPtr[i-1] );
+        iPtr[numsSize-i+1] += ( iPtr[numsSize-i] );
     }
     * returnSize = numsSize;
     return iPtr;
 }
+
 int nums1[] = {1,2,3,4};
 int nums2[] = {1,1,1,1};
 int nums3[] = {3,1,2,10,1};
