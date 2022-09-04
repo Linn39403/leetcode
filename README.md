@@ -15,6 +15,8 @@ I will list all of my leetcode problems and answers.
 |190. Reverse Bits | Easy :green_circle:|
 |191. Number of 1 Bits | Easy :green_circle:|
 |231. Power of Two | Easy :green_circle:|
+|326. Power of Three | Easy :green_circle:|
+|342. Power of Four | Easy :green_circle:|
 |1480. Running Sum Of 1D Array | Easy :green_circle:|
 |1672. Richest Customer Wealth | Easy :green_circle:|
 |2119. A Number After a Double Reversal | Easy :green_circle:|
