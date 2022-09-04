@@ -12,6 +12,7 @@ I will list all of my leetcode problems and answers.
 |7. Reverse Integer | Medium :yellow_circle:|                 
 |14.Longest Common Prefix | Easy :green_circle:|
 |27.Remove Element | Easy :green_circle:|
+|190.Reverse Bits | Easy :green_circle:|
 |1480.Running Sum Of 1D Array | Easy :green_circle:|
 |1672.Richest Customer Wealth | Easy :green_circle:|
 |2119.A Number After a Double Reversal | Easy :green_circle:|
