@@ -8,7 +8,8 @@ I will list all of my leetcode problems and answers.
 |2.Add Two Numbers | Medium |          
 |3.Longest Substring Without Repeating Characters | Medium |    
 |4. Median of Two Sorted Arrays | Hard | 
-|5. Longest Palindromic Substring | Medium |                 
+|5. Longest Palindromic Substring | Medium |
+|7. Reverse Integer | Medium |                 
 |14.Longest Common Prefix | Easy |
 |27.Remove Element | Easy |
 |1480.Running Sum Of 1D Array | Easy |
