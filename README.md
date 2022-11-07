@@ -25,6 +25,7 @@ I will list all of my leetcode problems and answers.
 |844. Backspace String Compare | Easy :green_circle:|
 |946. Validate Stack Sequences | Medium :yellow_circle:|
 |1047. Remove All Adjacent Duplicates In String | Easy :green_circle:|
+|1209. Remove All Adjacent Duplicates In String II | Medium :yellow_circle:|
 |1480. Running Sum Of 1D Array | Easy :green_circle:|
 |1614. Maximum Nesting Depth Of the Parentheses | Easy :green_circle:|
 |1672. Richest Customer Wealth | Easy :green_circle:|
