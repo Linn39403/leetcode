@@ -1,6 +1,8 @@
 # leetcode
 I will list all of my leetcode problems and answers.
-
+###
+![GitHub top language](https://img.shields.io/github/languages/top/aungtunlinn1992/leetcode)
+![code size](https://img.shields.io/github/languages/code-size/aungtunlinn1992/leetcode)
 # Solved Problems 
 
 | Title            | Difficulty |
