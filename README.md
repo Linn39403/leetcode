@@ -12,7 +12,8 @@ I will list all of my leetcode problems and answers.
 |4. Median of Two Sorted Arrays | Hard :red_circle:| 
 |5. Longest Palindromic Substring | Medium :yellow_circle:|
 |7. Reverse Integer | Medium :yellow_circle:|
-|8. String to Integer (atoi) | Medium :yellow_circle:|                 
+|8. String to Integer (atoi) | Medium :yellow_circle:|        
+|12. Integer to Roman | Medium :yellow_circle:|       
 |14. Longest Common Prefix | Easy :green_circle:|
 |17. Letter Combinations of a Phone Number | Medium :yellow_circle:|
 |20. Valid Parentheses | Easy :green_circle:|
