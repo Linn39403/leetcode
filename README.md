@@ -14,9 +14,10 @@ I will list all of my leetcode problems and answers.
 |7. Reverse Integer | Medium :yellow_circle:|
 |8. String to Integer (atoi) | Medium :yellow_circle:|                 
 |14. Longest Common Prefix | Easy :green_circle:|
+|17. Letter Combinations of a Phone Number | Medium :yellow_circle:|
 |20. Valid Parentheses | Easy :green_circle:|
 |27. Remove Element | Easy :green_circle:|
-|27. Longest Valid Parentheses | Hard :red_circle:|
+|32. Longest Valid Parentheses | Hard :red_circle:|
 |50. Pow(x,n) | Medium :yellow_circle:|
 |155. MinStack | Medium :yellow_circle:|
 |190. Reverse Bits | Easy :green_circle:|
