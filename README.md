@@ -7,6 +7,7 @@ I will list all of my leetcode problems and answers.
 
 | Title            | Difficulty |
 |:----------------|:------------|
+|1. Two Sum | Easy :green_circle:| 
 |2. Add Two Numbers | Medium :yellow_circle:|          
 |3. Longest Substring Without Repeating Characters | Medium :yellow_circle:|    
 |4. Median of Two Sorted Arrays | Hard :red_circle:| 
