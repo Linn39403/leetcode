@@ -32,6 +32,7 @@ I will list all of my leetcode problems and answers.
 |278. First Bad Version | Easy :green_circle:|
 |326. Power of Three | Easy :green_circle:|
 |342. Power of Four | Easy :green_circle:|
+|394. Decode String | Medium :yellow_circle:|
 |693. Binary Number with Alternating Bits | Easy :green_circle:|
 |704. Binary Search | Easy :green_circle:|
 |844. Backspace String Compare | Easy :green_circle:|
