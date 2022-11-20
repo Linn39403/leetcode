@@ -37,6 +37,7 @@ I will list all of my leetcode problems and answers.
 |693. Binary Number with Alternating Bits | Easy :green_circle:|
 |704. Binary Search | Easy :green_circle:|
 |844. Backspace String Compare | Easy :green_circle:|
+|856. Score Of Parentheses | Medium :yellow_circle:|
 |946. Validate Stack Sequences | Medium :yellow_circle:|
 |1047. Remove All Adjacent Duplicates In String | Easy :green_circle:|
 |1209. Remove All Adjacent Duplicates In String II | Medium :yellow_circle:|
