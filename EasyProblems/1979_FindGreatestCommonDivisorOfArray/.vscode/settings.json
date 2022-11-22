@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "iostream": "cpp",
+        "stack": "cpp",
+        "xstring": "cpp"
+    }
+}

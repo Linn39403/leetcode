@@ -44,5 +44,6 @@ I will list all of my leetcode problems and answers.
 |1480. Running Sum Of 1D Array | Easy :green_circle:|
 |1614. Maximum Nesting Depth Of the Parentheses | Easy :green_circle:|
 |1672. Richest Customer Wealth | Easy :green_circle:|
+|1979. Find Greatest Common Divisor Of Array | Easy :green_circle:|
 |2119. A Number After a Double Reversal | Easy :green_circle:|
 |2390. Removing Stars From A String | Medium :yellow_circle:|
