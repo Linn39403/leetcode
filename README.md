@@ -29,6 +29,8 @@ I will list all of my leetcode problems and answers.
 |190. Reverse Bits | Easy :green_circle:|
 |191. Number of 1 Bits | Easy :green_circle:|
 |231. Power of Two | Easy :green_circle:|
+|234. Ugly Number | Easy :green_circle:|
+|264. Ugly Number II | Medium :yellow_circle:|
 |278. First Bad Version | Easy :green_circle:|
 |326. Power of Three | Easy :green_circle:|
 |342. Power of Four | Easy :green_circle:|
