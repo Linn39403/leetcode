@@ -24,6 +24,7 @@ I will list all of my leetcode problems and answers.
 |28. Find the Index of the First Occurrence in a String | Medium :yellow_circle:|
 |32. Longest Valid Parentheses | Hard :red_circle:|
 |43. Multiply Strings | Medium :yellow_circle:|
+|48. Rotate Image | Medium :yellow_circle:|
 |50. Pow(x,n) | Medium :yellow_circle:|
 |102. Binary Tree Level Order Traversal | Medium :yellow_circle:|
 |155. MinStack | Medium :yellow_circle:|
