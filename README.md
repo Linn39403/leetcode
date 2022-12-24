@@ -31,6 +31,7 @@ I will list all of my leetcode problems and answers.
 |155. MinStack | Medium :yellow_circle:|
 |190. Reverse Bits | Easy :green_circle:|
 |191. Number of 1 Bits | Easy :green_circle:|
+|206. Reverse Linked List | Easy :green_circle:|
 |231. Power of Two | Easy :green_circle:|
 |234. Ugly Number | Easy :green_circle:|
 |264. Ugly Number II | Medium :yellow_circle:|
