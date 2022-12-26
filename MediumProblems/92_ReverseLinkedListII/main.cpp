@@ -23,18 +23,12 @@ public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
         int LLSize = 0;
         int diffCnt = right - left;
-        ListNode * headCpy = head;
-        while(headCpy!=nullptr){
-            headCpy = headCpy->next;
+        int * arr = new int[500];
+        while(head!=nullptr){
+            arr[LLSize] = head->val;
+            head = head->next;
             LLSize++;
-        }
-
-        headCpy = head; 
-        int * arr = new int[LLSize];
-        for(int i=0; i<LLSize; i++){
-            arr[i] = headCpy->val;
-            headCpy = headCpy->next;
-        }
+        }        
         ListNode * ptr = nullptr, * ptrCpy = nullptr;
         if(left==1){
             ptr = CreateNode(arr[left+diffCnt-1]);
