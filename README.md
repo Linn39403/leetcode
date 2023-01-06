@@ -35,6 +35,7 @@ I will list all of my leetcode problems and answers.
 |206. Reverse Linked List | Easy :green_circle:|
 |225. Implement Stack using Queues | Easy :green_circle:|
 |231. Power of Two | Easy :green_circle:|
+|232. Implement Queue using Stacks | Easy :green_circle:|
 |234. Ugly Number | Easy :green_circle:|
 |264. Ugly Number II | Medium :yellow_circle:|
 |278. First Bad Version | Easy :green_circle:|
