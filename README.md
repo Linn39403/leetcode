@@ -28,6 +28,7 @@ I will list all of my leetcode problems and answers.
 |48. Rotate Image | Medium :yellow_circle:|
 |50. Pow(x,n) | Medium :yellow_circle:|
 |92. Reverse Linked List II | Medium :yellow_circle:|
+|61. Rotate List | Medium :yellow_circle:|
 |102. Binary Tree Level Order Traversal | Medium :yellow_circle:|
 |155. MinStack | Medium :yellow_circle:|
 |190. Reverse Bits | Easy :green_circle:|
