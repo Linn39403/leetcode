@@ -35,6 +35,7 @@ I will list all of my leetcode problems and answers.
 |190. Reverse Bits | Easy :green_circle:|
 |191. Number of 1 Bits | Easy :green_circle:|
 |206. Reverse Linked List | Easy :green_circle:|
+|224. Basic Calculator | Hard :red_circle:|
 |225. Implement Stack using Queues | Easy :green_circle:|
 |227. Basic Calculator II | Medium :yellow_circle:|
 |231. Power of Two | Easy :green_circle:|
