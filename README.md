@@ -46,6 +46,7 @@ I will list all of my leetcode problems and answers.
 |326. Power of Three | Easy :green_circle:|
 |342. Power of Four | Easy :green_circle:|
 |394. Decode String | Medium :yellow_circle:|
+|445. Add Two Numbers II | Medium :yellow_circle:|
 |450. Delete Node in a BST | Medium :yellow_circle:|
 |468. Validate IP address | Medium :yellow_circle:|
 |622. Design Circular Queue | Medium :yellow_circle:|
