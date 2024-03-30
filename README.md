@@ -31,6 +31,7 @@ I will list all of my leetcode problems and answers.
 |92. Reverse Linked List II | Medium :yellow_circle:|
 |61. Rotate List | Medium :yellow_circle:|
 |102. Binary Tree Level Order Traversal | Medium :yellow_circle:|
+|141. Linked List Cycle | Easy :green_circle:|
 |143. Reorder List | Medium :yellow_circle:|
 |151. Reverse Words in a String | Medium :yellow_circle:|
 |155. MinStack | Medium :yellow_circle:|
