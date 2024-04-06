@@ -36,6 +36,7 @@ I will list all of my leetcode problems and answers.
 |143. Reorder List | Medium :yellow_circle:|
 |151. Reverse Words in a String | Medium :yellow_circle:|
 |155. MinStack | Medium :yellow_circle:|
+|179. Largest Number | Medium :yellow_circle:|
 |190. Reverse Bits | Easy :green_circle:|
 |191. Number of 1 Bits | Easy :green_circle:|
 |206. Reverse Linked List | Easy :green_circle:|
