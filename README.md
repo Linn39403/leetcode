@@ -72,5 +72,6 @@ I will list all of my leetcode problems and answers.
 |1979. Find Greatest Common Divisor Of Array | Easy :green_circle:|
 |2095. Delete The Middle Node Of A Linked List | Medium :yellow_circle:|
 |2119. A Number After a Double Reversal | Easy :green_circle:|
+|2165. Smallest Value of the Rearranged Number | Medium :yellow_circle:|
 |2181. Merge Notes In Between Zeros | Medium :yellow_circle:|
 |2390. Removing Stars From A String | Medium :yellow_circle:|
