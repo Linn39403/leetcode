@@ -30,6 +30,7 @@ I will list all of my leetcode problems and answers.
 |50. Pow(x,n) | Medium :yellow_circle:|
 |92. Reverse Linked List II | Medium :yellow_circle:|
 |61. Rotate List | Medium :yellow_circle:|
+|65. Valid Number | Hard :red_circle:|
 |102. Binary Tree Level Order Traversal | Medium :yellow_circle:|
 |141. Linked List Cycle | Easy :green_circle:|
 |141. Linked List Cycle II | Medium :yellow_circle:|
