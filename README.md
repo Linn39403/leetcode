@@ -46,7 +46,8 @@ I will list all of my leetcode problems and answers.
 |227. Basic Calculator II | Medium :yellow_circle:|
 |231. Power of Two | Easy :green_circle:|
 |232. Implement Queue using Stacks | Easy :green_circle:|
-|234. Ugly Number | Easy :green_circle:|
+|234. Palindrome Linked List | Easy :green_circle:|
+|263. Ugly Number | Easy :green_circle:|
 |264. Ugly Number II | Medium :yellow_circle:|
 |268. Missing Number | Easy :green_circle:|
 |278. First Bad Version | Easy :green_circle:|
