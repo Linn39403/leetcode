@@ -32,6 +32,7 @@ I will list all of my leetcode problems and answers.
 |61. Rotate List | Medium :yellow_circle:|
 |65. Valid Number | Hard :red_circle:|
 |102. Binary Tree Level Order Traversal | Medium :yellow_circle:|
+|125. Valid Palindrome | Easy :green_circle:|
 |141. Linked List Cycle | Easy :green_circle:|
 |141. Linked List Cycle II | Medium :yellow_circle:|
 |143. Reorder List | Medium :yellow_circle:|
