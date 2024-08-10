@@ -74,6 +74,7 @@ I will list all of my leetcode problems and answers.
 |1614. Maximum Nesting Depth Of the Parentheses | Easy :green_circle:|
 |1672. Richest Customer Wealth | Easy :green_circle:|
 |1721. Swapping Nodes in a Linked List | Medium :yellow_circle|
+|1768. Merge Strings Alternately | Easy :green_circle:|
 |1979. Find Greatest Common Divisor Of Array | Easy :green_circle:|
 |2095. Delete The Middle Node Of A Linked List | Medium :yellow_circle:|
 |2119. A Number After a Double Reversal | Easy :green_circle:|
