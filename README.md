@@ -52,6 +52,7 @@ I will list all of my leetcode problems and answers.
 |264. Ugly Number II | Medium :yellow_circle:|
 |268. Missing Number | Easy :green_circle:|
 |278. First Bad Version | Easy :green_circle:|
+|283. Move Zeros | Easy :green_circle:|
 |326. Power of Three | Easy :green_circle:|
 |342. Power of Four | Easy :green_circle:|
 |394. Decode String | Medium :yellow_circle:|
