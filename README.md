@@ -28,7 +28,7 @@ I will list all of my leetcode problems and answers.
 |43. Multiply Strings | Medium :yellow_circle:|
 |48. Rotate Image | Medium :yellow_circle:|
 |50. Pow(x,n) | Medium :yellow_circle:|
-|52. Spiral Matrix | Medium :yellow_circle:|
+|54. Spiral Matrix | Medium :yellow_circle:|
 |92. Reverse Linked List II | Medium :yellow_circle:|
 |61. Rotate List | Medium :yellow_circle:|
 |65. Valid Number | Hard :red_circle:|
