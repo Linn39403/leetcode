@@ -84,4 +84,5 @@ I will list all of my leetcode problems and answers.
 |2130. Maximum Twin Sum Of A LinkedList | Medium :yellow_circle:|
 |2165. Smallest Value of the Rearranged Number | Medium :yellow_circle:|
 |2181. Merge Notes In Between Zeros | Medium :yellow_circle:|
+|2239. Find Closest Number to Zero | Easy :green_circle:|
 |2390. Removing Stars From A String | Medium :yellow_circle:|
