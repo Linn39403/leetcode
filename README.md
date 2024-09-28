@@ -56,6 +56,7 @@ I will list all of my leetcode problems and answers.
 |278. First Bad Version | Easy :green_circle:|
 |283. Move Zeros | Easy :green_circle:|
 |326. Power of Three | Easy :green_circle:|
+|328. Odd Even Linked List | Medium :yellow_circle_circle:|
 |342. Power of Four | Easy :green_circle:|
 |394. Decode String | Medium :yellow_circle:|
 |445. Add Two Numbers II | Medium :yellow_circle:|
