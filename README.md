@@ -68,6 +68,7 @@ I will list all of my leetcode problems and answers.
 |693. Binary Number with Alternating Bits | Easy :green_circle:|
 |701. Insert into a Binary Search Tree | Medium :yellow_circle:|
 |704. Binary Search | Easy :green_circle:|
+|735. Asteroid Collision | Medium :yellow_circle:|
 |844. Backspace String Compare | Easy :green_circle:|
 |856. Score Of Parentheses | Medium :yellow_circle:|
 |876. Middle Of The Linked List | Easy :green_circle:|
