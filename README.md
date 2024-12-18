@@ -33,7 +33,7 @@ I will list all of my leetcode problems and answers.
 |92. Reverse Linked List II | Medium :yellow_circle:|
 |61. Rotate List | Medium :yellow_circle:|
 |65. Valid Number | Hard :red_circle:|
-|83. Remove Duplicated From Sorted List | Easy:green_circle:|
+|83. Remove Duplicated From Sorted List | Easy :green_circle:|
 |102. Binary Tree Level Order Traversal | Medium :yellow_circle:|
 |125. Valid Palindrome | Easy :green_circle:|
 |141. Linked List Cycle | Easy :green_circle:|
