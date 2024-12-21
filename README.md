@@ -7,20 +7,21 @@ I will list all of my leetcode problems and answers.
 
 | Title            | Difficulty |
 |:----------------|:------------|
-|1. Two Sum | Easy :green_circle:| 
-|2. Add Two Numbers | Medium :yellow_circle:|          
-|3. Longest Substring Without Repeating Characters | Medium :yellow_circle:|    
-|4. Median of Two Sorted Arrays | Hard :red_circle:| 
+|1. Two Sum | Easy :green_circle:|
+|2. Add Two Numbers | Medium :yellow_circle:|
+|3. Longest Substring Without Repeating Characters | Medium :yellow_circle:|
+|4. Median of Two Sorted Arrays | Hard :red_circle:|
 |5. Longest Palindromic Substring | Medium :yellow_circle:|
 |7. Reverse Integer | Medium :yellow_circle:|
 |8. String to Integer (atoi) | Medium :yellow_circle:|
-|9. Palindrome Number | Easy :green_circle:|       
-|12. Integer to Roman | Medium :yellow_circle:| 
-|13. Roman to Interger | Easy :green_circle:|      
+|9. Palindrome Number | Easy :green_circle:|
+|12. Integer to Roman | Medium :yellow_circle:|
+|13. Roman to Interger | Easy :green_circle:|
 |14. Longest Common Prefix | Easy :green_circle:|
 |17. Letter Combinations of a Phone Number | Medium :yellow_circle:|
 |19. Remove Nth Node From End of List | Medium :yellow_circle:|
 |20. Valid Parentheses | Easy :green_circle:|
+|21. Merge Two Sorted Lists | Easy :green_circle:|
 |27. Remove Element | Easy :green_circle:|
 |28. Find the Index of the First Occurrence in a String | Medium :yellow_circle:|
 |32. Longest Valid Parentheses | Hard :red_circle:|
@@ -38,7 +39,7 @@ I will list all of my leetcode problems and answers.
 |102. Binary Tree Level Order Traversal | Medium :yellow_circle:|
 |125. Valid Palindrome | Easy :green_circle:|
 |141. Linked List Cycle | Easy :green_circle:|
-|141. Linked List Cycle II | Medium :yellow_circle:|
+|142. Linked List Cycle II | Medium :yellow_circle:|
 |143. Reorder List | Medium :yellow_circle:|
 |151. Reverse Words in a String | Medium :yellow_circle:|
 |155. MinStack | Medium :yellow_circle:|
