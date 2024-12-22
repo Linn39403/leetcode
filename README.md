@@ -22,6 +22,7 @@ I will list all of my leetcode problems and answers.
 |19. Remove Nth Node From End of List | Medium :yellow_circle:|
 |20. Valid Parentheses | Easy :green_circle:|
 |21. Merge Two Sorted Lists | Easy :green_circle:|
+|24. Swap Nodes In Pairs | Medium :yellow_circle:|
 |27. Remove Element | Easy :green_circle:|
 |28. Find the Index of the First Occurrence in a String | Medium :yellow_circle:|
 |32. Longest Valid Parentheses | Hard :red_circle:|
